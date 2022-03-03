@@ -6,7 +6,7 @@ import pandas as pd
 
 mpl.rcParams['text.usetex'] = True
 mpl.rcParams['font.size'] = 14
-fig, ax = plt.subplots(figsize=(5.4,3.5))
+fig, ax = plt.subplots(figsize=(5.4,4))
 
 R1 = 1
 M = 2000
