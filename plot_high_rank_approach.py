@@ -2,7 +2,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib as mpl
 import plot_tools as p_t
-import pandas as pd
 
 mpl.rcParams['text.usetex'] = True
 mpl.rcParams['font.size'] = 14

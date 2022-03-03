@@ -6,7 +6,7 @@ R1 = 20
 R2 = 2
 M = 2000
 
-DELTAS = np.logspace(-3,2,64) #/(R2/np.sqrt(R1))
+DELTAS = np.logspace(-3,2,64)
 
 NB_POINTS = 2**10
 EPSILON_IMAG = 1e-8

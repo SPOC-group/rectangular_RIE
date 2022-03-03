@@ -1,5 +1,4 @@
 import numpy as np
-import pprint
 import g_functions as g_f
 
 R1 = 2

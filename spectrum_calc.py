@@ -1,7 +1,4 @@
-from sqlite3 import DatabaseError
-import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
 import g_functions as g_f
 
 R1 = 2

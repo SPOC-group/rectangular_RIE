@@ -1,8 +1,5 @@
-import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-from scipy import stats
-import g_functions as g_f
 
 R1 = 2
 R2 = .2
